@@ -1,2 +1,2 @@
-# Opencv_for_begginers
+# Opencv
 Opencv_from_scratch
